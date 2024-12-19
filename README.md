@@ -49,7 +49,7 @@ This project is a full-stack web application built with Angular for the frontend
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/aries-surya/angular-django-app.git
+    git clone https://github.com/Aries-Surya/angular-django-user-profile-uploader.git
     cd my-angular-django-app
     ```
 
