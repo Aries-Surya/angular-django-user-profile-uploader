@@ -7,9 +7,9 @@
 /bazel-out
 
 # Node
-frontend/node_modules
-frontend/npm-debug.log
-frontend/yarn-error.log
+node_modules
+npm-debug.log
+yarn-error.log
 
 # IDEs and editors
 .idea/
@@ -34,16 +34,9 @@ frontend/yarn-error.log
 /connect.lock
 /coverage
 /libpeerconnection.log
-frontend/testem.log
+/testem.log
 /typings
 
 # System files
 .DS_Store
 Thumbs.db
-
-#backend
-backend/venv
-backend/media
-backend/users/__pycache__
-backend/mysite/__pycache__
-.vscode
